@@ -4,6 +4,9 @@
 
 ### 👩🏻‍💻Major in digital media and software convergence at Seoul women's university
 ### 👩🏻‍💻I'm interesting at Kotlin, Android
+
+### [Portfolio](https://petite-coal-c69.notion.site/df83f9e4c8e04ff8b6b8651c474de3fc?pvs=4)     
+### [How I Study](https://victoria9981.tistory.com)
 <!--
 **songseunghei/songseunghei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
