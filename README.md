@@ -2,7 +2,7 @@
   
 ![](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=seungheesong&animation=twinkling&fontSize=60)
 
-### 👩🏻‍💻Major in digital media and software convergence at Seoul women's university
+### 👩🏻‍💻Major in Digital Media and Software Convergence at Seoul Women's university
 ### 👩🏻‍💻I'm interesting at Kotlin, Android
 
 ### [Portfolio](https://petite-coal-c69.notion.site/df83f9e4c8e04ff8b6b8651c474de3fc?pvs=4)     
