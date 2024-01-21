@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 
-![seunghei's GitHub stats](https://github-readme-stats.vercel.app/api?username=songseunghee&show_icons=true&theme=tokyonight)
+![seunghei's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghee17&show_icons=true&theme=tokyonight)
 
 #
 
