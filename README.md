@@ -61,6 +61,8 @@ Here are some ideas to get you started:
   📌(2022.09 - 2023.07) Member of GDSC SWU Android Dev
 
   📌(2023.09 - 2023.12) 한국대학생IT 경영학회 큐시즘 28기 Android Dev
+  
+  📌(2024.02 - 2024.06) 한국대학생IT 경영학회 큐시즘 29기 Android Dev
 
 
 
