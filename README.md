@@ -1,6 +1,4 @@
 <div align="center">
-  
-![](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=seungheesong&animation=twinkling&fontSize=60)
 
 ### 👩🏻‍💻Major in Digital Media and Software Convergence at Seoul Women's university
 ### 👩🏻‍💻I'm interesting at Kotlin, Android
