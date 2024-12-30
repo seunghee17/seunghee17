@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 👩🏻‍💻Major in Digital Media and Software Convergence at Seoul Women's university
-### 👩🏻‍💻I'm interesting at Kotlin, Android
+### 👩🏻‍💻I'm working as a Mobile Developer
 <a href="https://petite-coal-c69.notion.site/8b7fae57f95942818f2df1dde09ddf42?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@seunghee17/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
