@@ -46,25 +46,6 @@ Here are some ideas to get you started:
 
 
 
-  
-
-## My Experience👩🏻‍💻
-
-
-  📌(2022.07 - 2022.09) OUTTA AI 부트캠프
-  
-  📌(2022.03 - 2022.06) 코딩교육단 멘토
-
-  📌(2022.09 - 2023.07) Member of GDSC SWU Android Dev
-
-  📌(2023.09 - 2023.12) 한국대학생IT 경영학회 큐시즘 28기 Android Dev
-  
-  📌(2024.02 - 2024.06) 한국대학생IT 경영학회 큐시즘 29기 Android Dev
-  
-  📌(2024.08 - 2024.10) Fasoo 플랫폼 개발팀 인턴 근무
-
-
-
 
 ![seunghei's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghee17&show_icons=true&theme=tokyonight)
 
