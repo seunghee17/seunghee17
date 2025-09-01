@@ -1,7 +1,6 @@
 <div align="center">
 
 ### 👩🏻‍💻I'm working as a Mobile Developer
-<a href="https://petite-coal-c69.notion.site/8b7fae57f95942818f2df1dde09ddf42?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@seunghee17/posts"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <!--
@@ -25,11 +24,10 @@ Here are some ideas to get you started:
 
  Platforms & Languages
  
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
  <img src = "https://img.shields.io/badge/Jetpack-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 
 
