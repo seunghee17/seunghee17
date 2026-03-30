@@ -37,13 +37,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-
-
-
-![seunghei's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghee17&show_icons=true&theme=tokyonight)
-
-#
-
-
-
 </div>
